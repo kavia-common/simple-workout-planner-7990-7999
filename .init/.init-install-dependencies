@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/tmp/kavia/workspace/code-generation/simple-workout-planner-7990-7999/workout_planner_ui"
+}
